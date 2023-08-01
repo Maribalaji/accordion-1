@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.none{
+    display: none;
+    
+    
+}
+.active{
+    display:block;
+
+    
+}
+
+.accord{
+    margin: 10px;
+    width:80%;
+    border:1px solid black;
+    padding: 10px;
+    background-color: seashell;
+}
+.accord i{
+    color: rgb(252, 78, 78);
+}
